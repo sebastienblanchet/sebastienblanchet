@@ -1,22 +1,39 @@
-![License](https://img.shields.io/github/license/sebastienblanchet/sebastienblanchet?style=flat) <br/>
+### hi/salut 👋
 
-### Hi / Salut 👋
+**facts**
 
-I like it when my code controls stuff.
+* from a small town, hands-on
+* bilingue
+* doesn't get CS
+* dislikes React, SQL, Windows
+* mediocre at hockey and golf
+* loves embedded systems, robotics, controls
 
-<!--
-[![LinkedIn](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sebastien-blanchet/)](https://www.linkedin.com/in/sebastien-blanchet/)<br/>
-![GitHub followers](https://img.shields.io/github/followers/sebastienblanchet?label=Follow&style=social) <br/>
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://sebastienblanchet.github.io/portfolio/)](https://sebastienblanchet.github.io/portfolio/)<br/>
--->
+**stack**
 
-### Stack
+here's what I like right now:
 
-<p align="center">
+<p align="left">
 	<img title="C++" alt="C++" src="https://cdn.worldvectorlogo.com/logos/c.svg" height="40" />
+	&nbsp;&nbsp;
+  <img title="Rust" alt="Rust" src="https://cdn.worldvectorlogo.com/logos/rust.svg" height="40" />
+	&nbsp;&nbsp;
+  <img title="Vue.js" alt="Rust" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" height="40" />
+	&nbsp;&nbsp;
+  <img title="GraphQL" alt="GrapQK" src="https://cdn.worldvectorlogo.com/logos/graphql.svg
+" height="40" />
+  &nbsp;&nbsp;
+	<img title="Linux" alt="Linue" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" height="40"/>
 </p>
 
+**stats**
 
-### Stats
+everyone else has this:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=sebastienblanchet)
+![Github stats](https://github-readme-stats.vercel.app/api?username=sebastienblanchet&theme=dark)
+
+
+**footer**
+
+![license](https://img.shields.io/github/license/sebastienblanchet/sebastienblanchet?style=flat) <br/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sebastienblanchet.sebastienblanchet)
